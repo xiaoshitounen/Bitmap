@@ -1,2 +1,2 @@
 # Bitmap
-博客：[Bitmap的简单使用](https://fanandjiu.com/Bitmap%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/#more)
+博客：[Bitmap的简单使用](http://www.fanandjiu.com/article/8710c7e4.html)
